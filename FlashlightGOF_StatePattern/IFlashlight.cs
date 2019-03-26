@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FlashlightGOF_StatePattern
 {
-    internal interface IFlashlight
+    public interface IFlashlight
     {
         void Power();
         void Mode();

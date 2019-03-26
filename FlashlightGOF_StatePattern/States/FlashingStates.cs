@@ -1,4 +1,6 @@
-﻿namespace FlashlightGOF_StatePattern
+﻿using FlashlightGOF_StatePattern;
+
+namespace FlashlightGOF_StatePattern.States
 {
     public class FlashingStates
     {

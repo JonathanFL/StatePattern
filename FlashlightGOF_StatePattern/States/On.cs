@@ -1,6 +1,7 @@
 ﻿using System;
+using FlashlightGOF_StatePattern;
 
-namespace FlashlightGOF_StatePattern
+namespace FlashlightGOF_StatePattern.States
 {
     public class On : FlashingStates
     {
