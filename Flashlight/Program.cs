@@ -6,7 +6,10 @@ namespace Flashlight
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Flashlight flashlight = new Flashlight();
+            flashlight.TurnOn();
+            flashlight.TurnOff();
+            Console.ReadLine();
         }
     }
 }
